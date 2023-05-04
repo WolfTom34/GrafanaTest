@@ -1,1 +1,78 @@
 
+[
+  {
+    "id": "Moment 1",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "Moment 2",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "Moment 3",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "Vam106",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "Vam106",
+    "Available": "KO",
+    "Wifi" : "KO"
+  },
+  {
+    "id": "Vam107",
+    "Available": "KO",
+    "Wifi" : "KO"
+  },
+  {
+    "id": "Vam108",
+    "Available": "KO",
+    "Wifi" : "KO"
+  },
+  {
+    "id": "Vam109",
+    "Available": "KO",
+    "Wifi" : "KO"
+  },
+  {
+    "id": "Vam11",
+    "Available": "KO",
+    "Wifi" : "KO"
+  },
+  {
+    "id": "meshdev",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "archi2",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "meshdebug 1",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "meshdebug 2",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "meshise",
+    "Available": "OK",
+    "Wifi" : "OK"
+  },
+  {
+    "id": "meshflash",
+    "Available": "OK",
+    "Wifi" : "OK"
+  }
+]
